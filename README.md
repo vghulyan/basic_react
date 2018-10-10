@@ -1,0 +1,1 @@
+A basic react/redux application which adds recipes and ingredients
